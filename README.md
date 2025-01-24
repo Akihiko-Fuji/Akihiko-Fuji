@@ -5,9 +5,10 @@ Although I am still learning, I aim to contribute with unique and practical solu
 <br>
 
 🔧 Skills & Expertise<br>
-**Systems design and engineering:** Production equipment selection and machinery installation and line builds, especially roll-to-roll equipment, process design, and operation improvement. In business systems, he has experience in designing MES systems to obtain work performance information, systems to print work instructions, systems to control work errors, and warehouse management systems.<br>
+**Systems Design and Engineering:** I have experience in production equipment selection, machinery installation, and line builds, especially in roll-to-roll equipment. I’ve also been involved in process design and operation improvements. In business systems, I’ve designed MES systems to gather work performance data, systems to print work instructions, systems to control work errors, and warehouse management systems.<br>
 **Building & Construction:** Involved in administrative coordination, legal compliance, and project management in architecture.<br>
-**Product Design and Design:** The products I have planned have won the Good Design Award in Japan in the past.<br>
+**Product Design:** I’ve worked on designing products, one of which won the prestigious Good Design Award in Japan.
+<br>
 **Chemistry:** My major in college was applied chemistry, where I investigated the synthesis of carbon nanotubes.<br>
 **Python:** Currently working with Python for creating tools and solutions, though I'm not a professional developer.<br>
 **Exploring Technologies:** I like to experiment with various technologies and learning new skills outside of coding.<br>
