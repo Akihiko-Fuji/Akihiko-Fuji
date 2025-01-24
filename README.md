@@ -1,5 +1,8 @@
 Hi there, I'm Akihiko Fujita. 👋
-I'm not a professional programmer, but I have a passion for system design and coding. I enjoy creating useful tools and sharing them with others. Although I am still learning, I aim to contribute with unique and practical solutions!
+I'm not a professional programmer, but I have a passion for system design and coding.<br>
+I enjoy creating useful tools and sharing them with others.<br>
+Although I am still learning, I aim to contribute with unique and practical solutions!<br>
+
 
 🔧 Skills & Expertise
 System Design & Engineering: Experienced in mechanical design, factory process design, and improvements.
