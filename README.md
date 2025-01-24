@@ -15,7 +15,7 @@ Although I am still learning, I aim to contribute with unique and practical solu
 I’m working on developing unique, original tools with Python. My goal is to create something that hasn't been done before, offering solutions to real-world problems. I’m excited to share these projects as I develop them.<br>
 
 <br>
-📸 **About Me**<br>
+📸 About Me<br>
 Photography has been my passion for nearly 28 years. I’ve held solo exhibitions and have done self-processing and printing in my home darkroom. Beyond photography, I am equally fascinated by cameras and lenses and enjoy experimenting with them.<br>
 
 
