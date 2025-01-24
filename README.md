@@ -5,7 +5,7 @@ Although I am still learning, I aim to contribute with unique and practical solu
 <br>
 
 🔧 Skills & Expertise<br>
-**Systems design and engineering:** Machinery and equipment installation, especially experienced in roll-to-roll equipment,  process design, and operation improvement. In business systems, he has experience in designing MES systems, warehouse management systems, etc.<br>
+**Systems design and engineering:** Machinery and equipment installation, especially experienced in roll-to-roll equipment,  process design, and operation improvement. In business systems, he has experience in designing MES systems to obtain work performance information, systems to print work instructions, systems to control work errors, and warehouse management systems.<br>
 **Building & Construction:** Involved in administrative coordination, legal compliance, and project management in architecture.<br>
 **Python:** Currently working with Python for creating tools and solutions, though I'm not a professional developer.<br>
 **Exploring Technologies:** I like to experiment with various technologies and learning new skills outside of coding.<br>
