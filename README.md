@@ -6,7 +6,7 @@ Although I am still learning, I aim to contribute with unique and practical solu
 
 🔧 Skills & Expertise<br>
 **Systems Design and Engineering:** I have experience in production equipment selection, machinery installation, and line builds, especially in roll-to-roll equipment. I’ve also been involved in process design, operation improvements, and the entire lifecycle from system design to implementation.
-Specifically, I have designed and contributed to the operation of MES systems to gather work performance data, systems to print work instructions, systems to control work errors, and warehouse management systems, including coding and operational design.
+Specifically, I have designed and contributed to the operation of MES systems to gather work performance data, systems to print work instructions, production systems to control errors in factory operations, and warehouse management systems, including coding and operational design.
 I specialize in the area of digital transformation of factories.<br>
 **Building & Construction:** Involved in administrative coordination, legal compliance, and project management in architecture.<br>
 **Product Design:** I’ve worked on designing products, one of which won the prestigious Good Design Award in Japan.<br>
