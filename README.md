@@ -56,7 +56,7 @@ A tool for **converting serial input (e.g., barcode scanner data) into keystroke
 **Photograph** has been my passion for nearly 30 years. 📷  
 I’ve held **solo exhibitions** and have done **self-developing and printing enlarging(DPE)** in my home darkroom. 🖼️  
 
-### 🔍 Lens & Camera Enthusiast  
+### 🔍 **Lens & Camera Enthusiast**
  I’m fascinated by **cameras and lenses** and love experimenting with them!  
  Especially interested in **industrial lenses**, including:  
    - **X-ray photography lenses**  
@@ -68,6 +68,15 @@ I’ve held **solo exhibitions** and have done **self-developing and printing en
    - **Enlarging lenses**  
 
 📌 These lenses do not have the useful feature of autofocus. On the contrary, **they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
+
+### 🛠️ **Make & Build**
+I love working with my hands and have a well-equipped workshop at home. I regularly engage in hands-on projects involving:
+
+Spray painting booth 🎨<BR>
+Milling machine for cutting metals 🔩<BR>
+Stationary soldering station for precision work 🔧<BR>
+Various other machining tools<BR>
+These tools help me enjoy building and making various projects as part of my creative process.<BR>
 
 ---
 
