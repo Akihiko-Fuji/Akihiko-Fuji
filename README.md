@@ -24,8 +24,9 @@ I’m excited to share these projects as I develop them.<br>
 📸 About Me<br>
 Photography has been my passion for nearly 28 years.<br>
 I’ve held solo exhibitions and have done self-processing and printing in my home darkroom.<br>
-Beyond photography, I am equally fascinated by cameras and lenses and enjoy experimenting with them.<br>
+Beyond photography, I am equally fascinated by cameras and lenses and enjoy experimenting with them.<br><br>
 
+Outside of photography, he is fascinated by cameras and lenses and enjoys experimenting with them. Industrial lenses; lenses for X-ray photography, imaging lenses for oscilloscopes, focusing lenses for high-speed cameras, projection lenses for cinemas, and lenses for projectors that do not have autofocus or many of which do not have a focus function and an aperture to control light, I like to shoot with lenses that do not have autofocus, a focus function, and an aperture to control light.
 
 
 <!---
