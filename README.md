@@ -7,15 +7,17 @@ Although I am still learning, I aim to contribute with **unique and practical so
 
 ## 🔧 Skills & Expertise  
 ### 🏭 **Systems Design and Engineering**  
- Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  <BR>
- Involved in **process design**, **operation improvements**, and **the full lifecycle** from system design to implementation.   <BR>
- Developed and operated various **factory digital transformation** systems:   <BR>
+Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  <BR>
+Involved in **process design**, **operation improvements**, and **the full lifecycle** from **system design to implementation**.  <BR>
+
+I have **designed, developed, and operated** various **factory digital transformation** systems, including:  <BR>  
    - **MES systems** designed to collect **work performance data from human operators**, rather than just machines. 📊  
-   - **Automated work instruction printing systems**, optimized for **work efficiency and material minimization** based on **operations research** principles. 🖨️  
-   - **Error prevention systems** in factory operations ⚙️  
-   - **Warehouse management systems** 📦
+   - **Work instruction printing systems**, optimized for **work efficiency and material minimization** based on **operations research** principles. 🖨️  
+   - **Error prevention systems** to avoid **human errors in material usage and work procedures** in factory operations. ⚙️ 
+   - **Warehouse management systems** utilizing **RFID and QR codes** for efficient tracking and inventory control. 📦  
    - **Order support tools**
    - **WordPress-based** employee community services & custom web-based tools 🌐  
+
 
 ### 🏗️ **Building & Construction**  
  Involved in **administrative coordination**, **legal compliance**, and **project management** in architecture.  
