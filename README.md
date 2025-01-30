@@ -15,7 +15,7 @@ I have **designed, developed, and operated** various **factory digital transform
    - **Work instruction printing systems**, which I optimized for **work efficiency and material minimization** using **operations research** principles. 🖨️  
    - **Error prevention systems** I developed to prevent **human errors in material usage and work procedures** in factory operations. ⚙️  
    - **Warehouse management systems** I built, utilizing **RFID or QR codes** for efficient tracking and inventory control. 📦  
-   - **Order support tools**
+   - **Order support tools**📃
    - **WordPress-based** employee community services & custom web-based tools 🌐  
 
 
