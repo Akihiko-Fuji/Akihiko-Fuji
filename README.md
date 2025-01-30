@@ -10,8 +10,8 @@ Although I am still learning, I aim to contribute with **unique and practical so
  Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  <BR>
  Involved in **process design**, **operation improvements**, and **the full lifecycle** from system design to implementation.   <BR>
  Developed and operated various **factory digital transformation** systems:   <BR>
-   - **MES systems** for gathering work performance data 📊  
-   - **Automated work instruction printing systems** 🖨️  
+   - **MES systems** designed to collect **work performance data from human operators**, rather than just machines. 📊  
+   - **Automated work instruction printing systems**, optimized for **work efficiency and material minimization** based on **operations research** principles. 🖨️  
    - **Error prevention systems** in factory operations ⚙️  
    - **Warehouse management systems** 📦
    - **Order support tools**
