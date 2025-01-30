@@ -13,7 +13,9 @@ Although I am still learning, I aim to contribute with **unique and practical so
    - **MES systems** for gathering work performance data 📊  
    - **Automated work instruction printing systems** 🖨️  
    - **Error prevention systems** in factory operations ⚙️  
-   - **Warehouse management systems** 📦  
+   - **Warehouse management systems** 📦
+   - **Order support tools**
+   - **Wordpress-based** employee community services and several web-based tools
 
 ### 🏗️ **Building & Construction**  
 📝 Involved in **administrative coordination**, **legal compliance**, and **project management** in architecture.  
@@ -38,8 +40,8 @@ Although I am still learning, I aim to contribute with **unique and practical so
 ---
 
 ## 📸 About Me  
-**Photography** has been my passion for nearly **28 years**. 📷  
-I’ve held **solo exhibitions** and have done **self-processing and printing** in my home darkroom. 🖼️  
+**Photograph** has been my passion for nearly 30 years. 📷  
+I’ve held **solo exhibitions** and have done **self-developing and printing enlarging(DPE)** in my home darkroom. 🖼️  
 
 ### 🔍 Lens & Camera Enthusiast  
 📷 I’m fascinated by **cameras and lenses** and love experimenting with them!  
@@ -52,7 +54,7 @@ I’ve held **solo exhibitions** and have done **self-processing and printing** 
    - **Projector lenses**  
    - **Enlarging lenses**  
 
-📌 Many of these lenses do not have the useful feature of autofocus. On the contrary, **they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
+📌 These lenses do not have the useful feature of autofocus. On the contrary, **they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
 
 ---
 
