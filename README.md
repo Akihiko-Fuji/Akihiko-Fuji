@@ -49,9 +49,10 @@ I’ve held **solo exhibitions** and have done **self-processing and printing** 
    - **High-speed camera lenses**  
    - **Cinema lenses** 🎬  
    - **Industrial line scan lenses**  
-   - **Enlarging and projector lenses**  
+   - **Projector lenses**  
+   - **Enlarging lenses**  
 
-📌 Many of these lenses **lack autofocus, focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
+📌 Many of these lenses do not have the useful feature of autofocus. On the contrary, ** they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
 
 ---
 
