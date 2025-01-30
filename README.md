@@ -1,15 +1,15 @@
 # Hi there, I'm Akihiko Fujita! 👋✨  
-I'm not a professional programmer, but I have a passion for **system design** and **coding**.  
-I love creating **useful tools** and sharing them with others. 🚀  
-Although I am still learning, I aim to contribute with **unique and practical solutions**! 💡  
+I'm not a professional programmer, but I have a passion for **system design** and **coding**.   <BR>
+I love creating **useful tools** and sharing them with others. 🚀   <BR>
+Although I am still learning, I aim to contribute with **unique and practical solutions**! 💡   <BR>
 
 ---
 
 ## 🔧 Skills & Expertise  
 ### 🏭 **Systems Design and Engineering**  
-🔹 Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  
-🔹 Involved in **process design**, **operation improvements**, and **the full lifecycle** from system design to implementation.  
-🔹 Developed and operated various **factory digital transformation** systems:  
+🔹 Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  <BR>
+🔹 Involved in **process design**, **operation improvements**, and **the full lifecycle** from system design to implementation.   <BR>
+🔹 Developed and operated various **factory digital transformation** systems:   <BR>
    - **MES systems** for gathering work performance data 📊  
    - **Automated work instruction printing systems** 🖨️  
    - **Error prevention systems** in factory operations ⚙️  
@@ -25,8 +25,8 @@ Although I am still learning, I aim to contribute with **unique and practical so
 🔬 Studied **applied chemistry** in college, focusing on the **synthesis of carbon nanotubes**.  
 
 ### 🐍 **Python & Tech Exploration**  
-💻 Using **Python** to develop original tools and solutions.  
-🔍 Love experimenting with **new technologies** and exploring fields beyond programming.  
+💻 Using **Python** to develop original tools and solutions.   <BR>
+🔍 Love experimenting with **new technologies** and exploring fields beyond programming.   <BR>
 
 ---
 
@@ -52,7 +52,7 @@ I’ve held **solo exhibitions** and have done **self-processing and printing** 
    - **Projector lenses**  
    - **Enlarging lenses**  
 
-📌 Many of these lenses do not have the useful feature of autofocus. On the contrary, ** they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
+📌 Many of these lenses do not have the useful feature of autofocus. On the contrary, **they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
 
 ---
 
