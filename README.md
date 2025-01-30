@@ -1,4 +1,4 @@
-# Hi there, I'm Akihiko Fujita! 👋✨  
+# Hi there, I'm 藤田 昭彦 (Akihiko Fujita)! 👋✨  
 I'm not a professional programmer, but I have a passion for **system design** and **coding**.   <BR>
 I love creating **useful tools** and sharing them with others. 🚀   <BR>
 Although I am still learning, I aim to contribute with **unique and practical solutions**! 💡   <BR>
