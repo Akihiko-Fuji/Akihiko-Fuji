@@ -27,7 +27,7 @@ I’ve held solo exhibitions and have done self-processing and printing in my ho
 
 Outside of photography, he is fascinated by cameras and lenses and enjoys experimenting with them.<br>
 Industrial lenses; lenses for X-ray photography, for oscilloscopes, for high-speed cameras, for cinemas, for industrial line image scan, for enlareging, and for projectors.<br>
-That do not have autofocus, many of which do not have a focus function and an aperture to control light, I like to shoot with lenses that do not have autofocus, a focus function, and an aperture to control light.
+That do not have autofocus, many of which do not have a focus function and an aperture to control light, I like to shoot with lenses that do not have focus function, and an aperture to control light.
 
 
 <!---
