@@ -48,7 +48,10 @@ A tool for **converting serial input (e.g., barcode scanner data) into keystroke
 
 🔗 **GitHub:** [Serial to Keyboard (ser2key)](https://github.com/Akihiko-Fuji/ser2key)  
 
+#### 🗨️ Genuine OCR Optimizer 3 (Gocro3)  
+High Performance, High Precision **PDF OCR Tool Project** Overview This project is a powerful tool that uses Python to extract characters contained in PDF files using optical character recognition (OCR) technology to convert standard PDF documents into PDFs with searchable text. It is especially designed for mixed Japanese and English documents and provides a variety of preprocessing options to achieve highly accurate and efficient text recognition.
 
+🔗 **GitHub:** [Genuine OCR Optimizer 3 (Gocro3)](https://github.com/Akihiko-Fuji/gocro3)  
 
 ---
 
