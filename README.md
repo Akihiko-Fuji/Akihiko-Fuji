@@ -10,7 +10,7 @@ Although I am still learning, I aim to contribute with **unique and practical so
 Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  <BR>
 Involved in **process design**, **operation improvements**, and **the full lifecycle** from **system design to implementation**.  <BR>
 
-I'm Manufacturing Process Re-engineer (skills position commonly referred to as BPR.)<BR>
+I'm **M**anufacturing **P**rocess **R**e-engineer (skills position commonly referred to as **BPR**.)<BR>
 I have **designed, developed, and operated** various **factory digital transformation** systems including:  <BR>  
    - **MES systems** I developed end-to-end, covering **concept planning, system design, hardware evaluation, coding, deployment, and ongoing maintenance**, to collect **work performance data from human operators**, rather than just machines. 📊  
    - **Work instruction printing systems**, which I optimized for **work efficiency and material minimization** using **operations research** principles. 🖨️  
