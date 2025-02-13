@@ -8,6 +8,7 @@ Although I am still learning, I aim to contribute with **unique and practical so
 ## 🔧 Skills & Expertise  
 ### 🏭 **Systems Design and Engineering**  
 I'm **M**anufacturing **P**rocess **R**e-engineer (skills position commonly referred to as **BPR**.)<BR>
+
 Experienced in **production equipment selection**, **machinery installation**, and **line builds**, especially in **roll-to-roll equipment**.  <BR>
 Involved in **process design**, **operation improvements**, and **the full lifecycle** from **system design to implementation**.  <BR>
 
