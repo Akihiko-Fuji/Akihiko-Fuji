@@ -18,7 +18,7 @@ I have **designed, developed, and operated** various **factory digital transform
    - **Error prevention systems** I developed to prevent **human errors in material usage and work procedures** in factory operations. ⚙️  
    - **Warehouse management systems** I built, utilizing **RFID or QR codes** for efficient tracking and inventory control. 📦  
    - **Order support tools**📃
-   - **WordPress-based** employee community services & custom web-based tools 🌐  
+   - **WordPress-based** employee community services & custom web-based tools, and I build systems for Redmine, a project management web application, and Zabbix, a network management tool🌐 and some et cetera systems.
 
 
 ### 🏗️ **Building & Construction**  
