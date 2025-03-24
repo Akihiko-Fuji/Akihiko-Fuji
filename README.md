@@ -55,6 +55,18 @@ High Performance, High Precision **PDF OCR Tool Project** Overview This project 
 
 🔗 **GitHub:** [Genuine OCR Optimizer 3 (Gocro3)](https://github.com/Akihiko-Fuji/gocro3)  
 
+#### 🗨️ Quality Relationship Assurance (QR-Assure)  
+This program is a system that reads QR codes, matches each QR code, and logs the results.
+
+1. reads QR Codes, each of which has a different number of digits, as a partial match for the value contained in either one.
+2. extracts the data of the read QR Code.
+3. Notifies the user of the match or mismatch by LED and buzzer based on the collation results.
+4. Records the collation results in a log file (CSV format).
+
+Translated with DeepL.com (free version)
+
+🔗 **GitHub:**  [QR-Assure](https://github.com/Akihiko-Fuji/qr_assure/)
+
 ---
 
 ## 📸 About Me  
