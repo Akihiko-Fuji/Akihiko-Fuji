@@ -63,8 +63,6 @@ This program is a system that reads QR codes, matches each QR code, and logs the
 3. Notifies the user of the match or mismatch by LED and buzzer based on the collation results.
 4. Records the collation results in a log file (CSV format).
 
-Translated with DeepL.com (free version)
-
 🔗 **GitHub:**  [QR-Assure](https://github.com/Akihiko-Fuji/qr_assure/)
 
 ---
