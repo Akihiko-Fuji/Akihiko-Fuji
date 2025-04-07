@@ -13,10 +13,11 @@ Experienced in **production equipment selection**, **machinery installation**, a
 Involved in **process design**, **operation improvements**, and **the full lifecycle** from **system design to implementation**.  <BR>
 
 I have **designed, developed, and operated** various **factory digital transformation** systems including:  <BR>  
-   - **MES systems** I developed end-to-end, covering **concept planning, system design, hardware evaluation, coding, deployment, and ongoing maintenance**, to collect **work performance data from human operators**, rather than just machines. 📊  
+   - **MES systems** I developed end-to-end, covering **concept planning, system design, hardware evaluation, coding, deployment, and ongoing maintenance**, to collect **work performance data from human operators**, rather than just machines. 📊
    - **Work instruction printing systems**, which I optimized for **work efficiency and material minimization** using **operations research** principles. 🖨️  
    - **Error prevention systems** I developed to prevent **human errors in material usage and work procedures** in factory operations. ⚙️  
-   - **Warehouse management systems** I built, utilizing **RFID or QR codes** for efficient tracking and inventory control. 📦  
+   - **Warehouse management systems** I built, utilizing **RFID or QR codes** for efficient tracking and inventory control. 📦
+   - **Streamlit** I have started graphing our data using Streamlit.
    - **Order support tools**📃
    - **WordPress-based** employee community services & custom web-based tools, and I build systems for Redmine, a project management web application, and Zabbix, a network management tool🌐 and some et cetera systems.
 
