@@ -43,6 +43,7 @@ I'm currently working on **developing unique and original tools with Python**, a
 ### 📌 **Ongoing Projects**  
 #### 🗨️ SSD1309 RRS Reader 
 RSS news reader for Raspberry Pi and SSD1309 and SSD1306 OLED display with Japanese display support. It also supports article/feed switching by button operation and automatic scrolling display.
+
 🔗 **GitHub:**  [SSD1309 RRS Reader](https://github.com/Akihiko-Fuji/SSD1306RRS_reader)
 
 #### 🔍 Clipboard Scouter  
