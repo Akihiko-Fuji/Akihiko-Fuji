@@ -75,7 +75,7 @@ This program is a system that reads QR codes, matches each QR code, and logs the
 
 ## 📸 About Me  
 **Photograph** has been my passion for nearly 30 years. 📷  
-I’ve held **solo exhibitions** and have done **self-developing and printing enlarging(DPE)** in my home darkroom. 🖼️  
+I’ve held **solo exhibitions** and have done **self-Developing and Printing Enlarging (DPE)** in my home darkroom. 🖼️  
 
 ### 🔍 **Lens & Camera Enthusiast**
  I’m fascinated by **cameras and lenses** and love experimenting with them!  
