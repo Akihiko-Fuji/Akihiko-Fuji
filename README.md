@@ -14,6 +14,7 @@ Involved in **process design**, **operation improvements**, and **the full lifec
 
 I have **designed, developed, and operated** various **factory digital transformation** systems including:  <BR>  
    - **MES systems** I developed end-to-end, covering **concept planning, system design, hardware evaluation, coding, deployment, and ongoing maintenance**, to collect **work performance data from human operators**, rather than just machines. 📊
+   - I'm a member of [ENAA's Smart Factory Research Group](https://www.enaa.or.jp/research/smart).
    - **Work instruction printing systems**, which I optimized for **work efficiency and material minimization** using **operations research** principles. 🖨️  
    - **Error prevention systems** I developed to prevent **human errors in material usage and work procedures** in factory operations. ⚙️  
    - **Warehouse management systems** I built, utilizing **RFID or QR codes** for efficient tracking and inventory control. 📦
