@@ -29,7 +29,7 @@ I have **designed, developed, and operated** various **factory digital transform
  One of my designed products **won the prestigious Good Design Award** in Japan.  
 
 ### 🧪 **Chemistry**  
- Studied **applied chemistry** in college, focusing on the **[synthesis of carbon nanotubes](https://www.jstage.jst.go.jp/article/sssj/24/0/24_0_41/_article/-char/ja/)**.  
+ Studied **applied chemistry** in college, focusing on the **synthesis of carbon nanotubes**.  
 
 ### 🐍 **Python & Tech Exploration**  
  Using **Python** to develop original tools and solutions.   <BR>
