@@ -51,10 +51,16 @@ An OCR tool designed for **capturing and processing on-screen text**. Unlike tra
 
 🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)  
 
-#### 🔠 Serial to Keyboard (ser2key)  
-A tool for **converting serial input (e.g., barcode scanner data) into keystrokes**. Designed to **improve character recognition accuracy and speed**, especially for **Japanese QR code data** containing half-width kana or kanji. Works with **RS-232C, USB, and Bluetooth SPP** devices.  
+#### 🔠 Serial port to Keyboard (ser2key)  
+A tool for **converting serial input (e.g., barcode scanner data) into keystrokes**. Designed to **improve character recognition accuracy and speed**, especially for **Japanese QR code data** containing half-width kana or kanji. Works with **RS-232C, USB, and Bluetooth SPP** devices. It is designed to run on Windows OS.
 
 🔗 **GitHub:** [Serial to Keyboard (ser2key)](https://github.com/Akihiko-Fuji/ser2key)  
+
+#### 🔠 Keyboard to Serial port(key2ser)
+A tool that forwards keyboard input (e.g., barcode scanner data) to a virtual serial port. It is specifically designed to improve character recognition accuracy and speed, particularly for Japanese QR code data containing half-width kana. It is designed to run on Raspberry Pi OS.
+
+🔗 GitHub:  [Keyboard to Serial (key2key)](https://github.com/Akihiko-Fuji/key2ser)  
+
 
 #### 🗨️ Genuine OCR Optimizer 3 (Gocro3)  
 High Performance, High Precision **PDF OCR Tool Project** Overview This project is a powerful tool that uses Python to extract characters contained in PDF files using optical character recognition (OCR) technology to convert standard PDF documents into PDFs with searchable text. It is especially designed for mixed Japanese and English documents and provides a variety of preprocessing options to achieve highly accurate and efficient text recognition.
