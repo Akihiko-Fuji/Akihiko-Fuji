@@ -41,10 +41,10 @@ I have **designed, developed, and operated** various **factory digital transform
 I'm currently working on **developing unique and original tools with Python**, aiming to create **practical solutions that haven’t been done before**.  
 
 ### 📌 **Ongoing Projects**  
-#### 🗨️ SSD1309 RRS Reader 
+#### 🗨️ SSD1309 RSS Reader 
 RSS news reader for Raspberry Pi and SSD1309 and SSD1306 OLED display with Japanese display support. It also supports article/feed switching by button operation and automatic scrolling display.
 
-🔗 **GitHub:**  [SSD1309 RRS Reader](https://github.com/Akihiko-Fuji/SSD1306RRS_reader)
+🔗 **GitHub:**  [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
 
 #### 🔍 Clipboard Scouter  
 An OCR tool designed for **capturing and processing on-screen text**. Unlike traditional OCR software that scans printed materials, this tool extracts text from **screenshots, error messages, and online presentations**. Perfect for **copying unselectable text** from web conferences or troubleshooting errors!  
