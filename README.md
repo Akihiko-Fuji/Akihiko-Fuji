@@ -46,11 +46,6 @@ RSS news reader for Raspberry Pi and SSD1309 and SSD1306 OLED display with Japan
 
 🔗 **GitHub:**  [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
 
-#### 🔍 Clipboard Scouter  
-An OCR tool designed for **capturing and processing on-screen text**. Unlike traditional OCR software that scans printed materials, this tool extracts text from **screenshots, error messages, and online presentations**. Perfect for **copying unselectable text** from web conferences or troubleshooting errors!  
-
-🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)  
-
 #### 🔠 Serial port to Keyboard (ser2key)  
 A tool for **converting serial input (e.g., barcode scanner data) into keystrokes**. Designed to **improve character recognition accuracy and speed**, especially for **Japanese QR code data** containing half-width kana or kanji. Works with **RS-232C, USB, and Bluetooth SPP** devices. It is designed to run on Windows OS.
 
@@ -61,21 +56,10 @@ A tool that forwards keyboard input (e.g., barcode scanner data) to a virtual se
 
 🔗 GitHub:  [Keyboard to Serial (key2key)](https://github.com/Akihiko-Fuji/key2ser)  
 
+#### 🔍 Clipboard Scouter  
+An OCR tool designed for **capturing and processing on-screen text**. Unlike traditional OCR software that scans printed materials, this tool extracts text from **screenshots, error messages, and online presentations**. Perfect for **copying unselectable text** from web conferences or troubleshooting errors!  
 
-#### 🗨️ Genuine OCR Optimizer 3 (Gocro3)  
-High Performance, High Precision **PDF OCR Tool Project** Overview This project is a powerful tool that uses Python to extract characters contained in PDF files using optical character recognition (OCR) technology to convert standard PDF documents into PDFs with searchable text. It is especially designed for mixed Japanese and English documents and provides a variety of preprocessing options to achieve highly accurate and efficient text recognition.
-
-🔗 **GitHub:** [Genuine OCR Optimizer 3 (Gocro3)](https://github.com/Akihiko-Fuji/gocro3)  
-
-#### 🗨️ Quality Relationship Assurance (QR-Assure)  
-This program is a system that reads QR codes, matches each QR code, and logs the results.
-
-1. reads QR Codes, each of which has a different number of digits, as a partial match for the value contained in either one.
-2. extracts the data of the read QR Code.
-3. Notifies the user of the match or mismatch by LED and buzzer based on the collation results.
-4. Records the collation results in a log file (CSV format).
-
-🔗 **GitHub:**  [QR-Assure](https://github.com/Akihiko-Fuji/qr_assure/)
+🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)  
 
 ---
 
