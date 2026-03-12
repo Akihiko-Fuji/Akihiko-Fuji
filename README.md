@@ -61,10 +61,12 @@ An OCR tool designed for **capturing and processing on-screen text**. Unlike tra
 
 🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)  
 
-#### 🔍 Serial port tool
+#### 🔠 Serial port tool
+serial port tool is a field diagnostic tool for troubleshooting serial communication issues.
+It can probe multiple ports and baud rates at once, showing the active port, baud rate, terminator or delimiter, and the size and content of incoming data.
+Results can also be exported in JSON for investigation logs.
 
-
-🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/serial_port_tool/)  
+🔗 **GitHub:** [Serial port tool](https://github.com/Akihiko-Fuji/serial_port_tool/)  
 
 
 ---
