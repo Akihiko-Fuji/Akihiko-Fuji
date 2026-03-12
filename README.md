@@ -61,6 +61,12 @@ An OCR tool designed for **capturing and processing on-screen text**. Unlike tra
 
 🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)  
 
+#### 🔍 Serial port tool
+
+
+🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/serial_port_tool/)  
+
+
 ---
 
 ## 📸 About Me  
