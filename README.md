@@ -1,47 +1,61 @@
 # Hi, I'm Akihiko Fujita 👋
 
-I am a manufacturing engineer, systems builder, and practical problem solver from Japan.
+I am a manufacturing engineer, systems builder, and workflow redesign practitioner from Japan.
 
-My work sits at the intersection of **manufacturing**, **workflow redesign**, and **digital implementation**.  
-In many cases, it is closely aligned with **Business Process Re-engineering (BPR)**:  
-I do not just improve isolated tools — I redesign workflows, information flow, operations, and supporting systems as a connected whole.
+My work focuses on transforming complex manufacturing operations into practical, structured, and sustainable systems.  
+In many cases, the nature of my work is closely aligned with **Business Process Re-engineering (BPR)**:  
+I redesign not only tools, but also workflows, information flow, operational logic, and the systems that support them.
 
-I enjoy building systems that are not only technically functional, but also genuinely useful on the factory floor.
+I am especially interested in building solutions that work in the real world — not just in theory, not just on slides, and not just as software prototypes.
 
 ---
 
-## What I Work On
+## What I Do
 
-### Factory Systems & Workflow Redesign
-I design, build, and operate practical systems for manufacturing sites, including:
+### Manufacturing Systems, Workflow Redesign, and Implementation
+I design and implement systems for real factory environments, including:
 
 - **MES and shop-floor data collection systems**
-- **Human-work tracking systems**, not just machine monitoring
+- **Human-work tracking systems**, not only machine monitoring
 - **Error-prevention systems** for materials and work procedures
 - **Warehouse and inventory systems** using **QR codes** and **RFID**
 - **Work instruction printing systems** optimized for efficiency and material minimization
-- **Internal support tools**, data utilities, and visualization apps built with **Python** and **Streamlit**
+- **Internal tools, operational utilities, and data visualization apps** built with **Python** and **Streamlit**
 
-My role often spans the full lifecycle:
+What makes my role distinctive is that I often work across the entire chain:
 
-**problem discovery → process redesign → system design → hardware evaluation → coding → deployment → operational support**
+**problem discovery → workflow redesign → system architecture → hardware evaluation → coding → deployment → operational support**
 
-That is one reason why I describe my work as strongly connected to **BPR in real manufacturing environments**.
+Because of that, I see my work not simply as software development, but as **practical engineering for operational transformation**.
 
 ### Engineering Background
-I have experience in:
+My background includes:
 
 - production equipment selection
 - machinery installation
 - line construction
 - process design
 - logistics planning and operations
-- continuous improvement in manufacturing environments
+- manufacturing process improvement
 
-I also have particular experience with **roll-to-roll equipment** and production engineering.
+I also have particular experience with **roll-to-roll equipment**, where process conditions, handling, and operational design must work together as one system.
 
-### Research & Professional Community
-I am a member of the **ENAA Smart Factory Research Group**, where I stay engaged with broader discussions around manufacturing digitalization and smart factory practices.
+### Professional Community
+I am a member of the **ENAA Smart Factory Research Group**, where I stay engaged with broader discussions on manufacturing digitalization and smart factory practices.
+
+---
+
+## What I Bring
+
+I am particularly strong in areas where the following need to come together:
+
+- understanding how work is actually done on site
+- redesigning workflows and operating rules
+- translating requirements into working systems
+- integrating hardware, software, and operations
+- building tools that are practical enough to survive real use
+
+In other words, I work best on problems that are too technical for pure operations roles, and too operational for pure software roles.
 
 ---
 
@@ -78,36 +92,36 @@ It can probe multiple ports and baud rates at once, detect terminators or delimi
 
 ---
 
-## Other Areas of Experience
+## Additional Experience
 
 ### Product Design
 One of my product designs received the **Good Design Award** in Japan.
 
 ### Building & Construction
-I have also been involved in architecture-related work, including **administrative coordination**, **legal compliance**, and **project management**.
+I have also worked in architecture-related contexts, including **administrative coordination**, **legal compliance**, and **project management**.
 
 ### Chemistry
 I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
 
 ---
 
-## Beyond Engineering
+## Beyond Work
 
 ### Photography
 Photography has been one of my passions for nearly 30 years.  
-I have held solo exhibitions and also worked on film developing and darkroom printing myself.
+I have held solo exhibitions and have also developed and printed photographs in my own darkroom.
 
 I am especially interested in unusual and industrial optics, including:
 
 - X-ray lenses
-- oscilloscope lenses
-- high-speed camera lenses
-- cinema lenses
-- line-scan lenses
-- projector lenses
-- enlarging lenses
+- Oscilloscope lenses
+- High-speed camera lenses
+- Cinema lenses
+- Line-scan lenses
+- Projector lenses
+- Enlarging lenses
 
-I enjoy the challenge of working with lenses that often have no autofocus, and sometimes not even a focus ring or aperture control.
+I enjoy working with lenses that often have no autofocus, and sometimes not even a focus ring or aperture control.
 
 ### Making & Prototyping
 I also enjoy hands-on making and prototyping in my home workshop, including painting, metalworking, soldering, and other fabrication work.
@@ -116,14 +130,15 @@ I also enjoy hands-on making and prototyping in my home workshop, including pain
 
 ## My Approach
 
-I like building things that are:
+I believe strong engineering starts with understanding the real work.  
+Good systems are not created by technology alone. They are created by connecting:
 
-- **practical**
-- **original**
-- **useful in real operations**
-- **designed with the whole workflow in mind**
+- operations
+- constraints
+- human behavior
+- information flow
+- implementation details
 
-I believe good engineering is not just about writing code or designing hardware.  
-It is about understanding the work itself, identifying what truly matters, and turning that insight into tools and systems that make a real difference.
+That is why I enjoy building systems that are not only technically correct, but operationally meaningful.
 
 Thanks for visiting my profile.
