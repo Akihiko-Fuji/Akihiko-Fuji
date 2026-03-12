@@ -1,102 +1,115 @@
-# Hi there, I'm 藤田 昭彦 (Akihiko Fujita)! 👋✨  
-I'm **NOT** a professional programmer.   <BR>
-I love creating **useful tools** and sharing them with others. 🚀   <BR>
-Although I am still learning, I aim to contribute with **unique and practical solutions**! 💡   <BR>
+# Hi, I'm Akihiko Fujita 👋
+
+I am a manufacturing engineer and system builder based in Japan.  
+I design and implement practical tools for real factory operations, especially in production processes, logistics, traceability, and shop-floor digitalization.
+
+My work often spans the full lifecycle:
+**concept planning, process design, hardware evaluation, coding, deployment, and operation support**.
 
 ---
 
-## 🔧 Skills & Expertise  
-### 🏭 **Systems Design and Engineering**  
-I'm **M**anufacturing **P**rocess **R**e-engineer (skills position commonly referred to as **BPR**.)<BR>
+## What I Do
 
-Experienced in production equipment selection, machinery installation, line builds, and logistics planning and operations, especially in roll-to-roll equipment. <BR>
-Involved in **process design**, **operation improvements**, and **the full lifecycle** from **system design to implementation**.  <BR>
+### Factory Systems & Digital Transformation
+I design, build, and operate practical systems for manufacturing sites, including:
 
-I have **designed, developed, and operated** various **factory digital transformation** systems including:  <BR>  
-   - **MES systems** I developed end-to-end, covering **concept planning, system design, hardware evaluation, coding, deployment, and ongoing maintenance**, to collect **work performance data from human operators**, rather than just machines. 📊
-   - I'm a member of [ENAA Smart Factory Research Group](https://www.enaa.or.jp/research/smart).
-   - **Work instruction printing systems**, which I optimized for **work efficiency and material minimization** using **operations research** principles. 🖨️  
-   - **Error prevention systems** I developed to prevent **human errors in material usage and work procedures** in factory operations. ⚙️  
-   - **Warehouse management systems** I built, utilizing **RFID or QR codes** for efficient tracking and inventory control. 📦
-   - **Streamlit** I have started graphing our data using Streamlit.📈📊
-   - **Order support tools**📃
-   - **WordPress-based** employee community services & custom web-based tools, and I build systems for Redmine, a project management web application, and Zabbix, a network management tool🌐 and some et cetera systems.
+- **MES / shop-floor data collection systems** for capturing human work performance, not only machine data
+- **Work instruction printing systems** optimized for work efficiency and material minimization
+- **Error-prevention systems** to reduce human mistakes in materials and work procedures
+- **Warehouse and inventory systems** using **QR codes** and **RFID**
+- **Order support tools**, internal web tools, and small utility systems
+- **Data visualization with Streamlit**
 
-### 🏗️ **Building & Construction**  
- Involved in **administrative coordination**, **legal compliance**, and **project management** in architecture.  
+I am also a member of the **ENAA Smart Factory Research Group**.
 
-### 🎨 **Product Design**  
- One of my designed products **won the prestigious Good Design Award** in Japan.  
+### Engineering Background
+My background includes:
 
-### 🧪 **Chemistry**  
- Studied **applied chemistry** in college, focusing on the **synthesis of carbon nanotubes**.  
+- production equipment selection
+- machinery installation
+- line construction
+- logistics planning and operation
+- process design and continuous improvement
 
-### 🐍 **Python & Tech Exploration**  
- Using **Python** to develop original tools and solutions.   <BR>
- Love experimenting with **new technologies** and exploring fields beyond programming.   <BR>
+I have particular experience with **roll-to-roll equipment** and manufacturing process re-engineering.
+
+### Beyond Software
+My work is not limited to software. I also enjoy building and evaluating systems from a practical engineering perspective, including hardware, devices, tooling, and field operation.
 
 ---
 
-## 🎯 Current Projects  
-I'm currently working on **developing unique and original tools with Python**, aiming to create **practical solutions that haven’t been done before**.  
+## Selected Projects
 
-### 📌 **Ongoing Projects**  
-#### 🗨️ SSD1309 RSS Reader 
-RSS news reader for Raspberry Pi and SSD1309 and SSD1306 OLED display with Japanese display support. It also supports article/feed switching by button operation and automatic scrolling display.
+### SSD1309 RSS Reader
+A Japanese-capable RSS news reader for Raspberry Pi with SSD1309 / SSD1306 OLED displays.  
+Supports feed switching, article switching, button control, and auto-scrolling display.
 
-🔗 **GitHub:**  [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
+🔗 [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
 
-#### 🔠 Serial port to Keyboard (ser2key)  
-A tool for **converting serial input (e.g., barcode scanner data) into keystrokes**. Designed to **improve character recognition accuracy and speed**, especially for **Japanese QR code data** containing half-width kana or kanji. Works with **RS-232C, USB, and Bluetooth SPP** devices. It is designed to run on Windows OS.
+### ser2key
+A Windows tool that converts serial input into keyboard input.  
+Designed for barcode and QR workflows, including Japanese data such as half-width kana and kanji.
 
-🔗 **GitHub:** [Serial to Keyboard (ser2key)](https://github.com/Akihiko-Fuji/ser2key)  
+🔗 [ser2key](https://github.com/Akihiko-Fuji/ser2key)
 
-#### 🔠 Keyboard to Serial port(key2ser)
-A tool that forwards keyboard input (e.g., barcode scanner data) to a virtual serial port. It is specifically designed to improve character recognition accuracy and speed, particularly for Japanese QR code data containing half-width kana. It is designed to run on Raspberry Pi OS.
+### key2ser
+A Raspberry Pi OS tool that forwards keyboard input to a virtual serial port.  
+Useful for scanner integration and serial-based workflows.
 
-🔗 GitHub:  [Keyboard to Serial (key2key)](https://github.com/Akihiko-Fuji/key2ser)  
+🔗 [key2ser](https://github.com/Akihiko-Fuji/key2ser)
 
-#### 🔍 Clipboard Scouter  
-An OCR tool designed for **capturing and processing on-screen text**. Unlike traditional OCR software that scans printed materials, this tool extracts text from **screenshots, error messages, and online presentations**. Perfect for **copying unselectable text** from web conferences or troubleshooting errors!  
+### Clipboard Scouter
+An OCR utility for extracting text from screenshots, error dialogs, online presentations, and other non-selectable on-screen text.
 
-🔗 **GitHub:** [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)  
+🔗 [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)
 
-#### 🔠 Serial port tool
-serial port tool is a field diagnostic tool for troubleshooting serial communication issues.
-It can probe multiple ports and baud rates at once, showing the active port, baud rate, terminator or delimiter, and the size and content of incoming data.
-Results can also be exported in JSON for investigation logs.
+### Serial Port Tool
+A field diagnostic tool for troubleshooting serial communication.  
+It can probe multiple ports and baud rates at once, detect terminators or delimiters, and export logs in JSON format.
 
-🔗 **GitHub:** [Serial port tool](https://github.com/Akihiko-Fuji/serial_port_tool/)  
-
-
----
-
-## 📸 About Me  
-**Photograph** has been my passion for nearly 30 years. 📷  
-I’ve held **solo exhibitions** and have done **self-Developing and Printing Enlarging (DPE)** in my home darkroom. 🖼️  
-
-### 🔍 **Lens & Camera Enthusiast**
- I’m fascinated by **cameras and lenses** and love experimenting with them!  
- Especially interested in **industrial lenses**, including:  
-   - **X-ray photography lenses**  
-   - **Oscilloscope lenses**  
-   - **High-speed camera lenses**  
-   - **Cinema lenses** 🎬  
-   - **Industrial line scan lenses**  
-   - **Projector lenses**  
-   - **Enlarging lenses**  
-
-📌 These lenses do not have the useful feature of autofocus. On the contrary, **they do not have focus rings, or aperture control**, but I enjoy the challenge of shooting with them! 🎞️  
-
-### 🛠️ **Make & Build**
-I love working with my hands and have a well-equipped workshop at home. I regularly engage in hands-on projects involving:
-
-Spray painting booth 🎨<BR>
-Milling machine for cutting metals 🔩<BR>
-Stationary soldering station for precision work 🔧<BR>
-Various other machining tools<BR>
-These tools help me enjoy building and making various projects as part of my creative process.<BR>
+🔗 [Serial Port Tool](https://github.com/Akihiko-Fuji/serial_port_tool)
 
 ---
 
-Thanks for stopping by! 🚀 Let's connect and create something amazing!  
+## Other Experience
+
+### Building & Construction
+Experienced in administrative coordination, legal compliance, and project management in architecture-related work.
+
+### Product Design
+One of my product designs received the **Good Design Award** in Japan.
+
+### Chemistry
+I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
+
+---
+
+## Personal Interests
+
+### Photography
+Photography has been a major passion of mine for nearly 30 years.  
+I have held solo exhibitions and also developed and printed photographs in my home darkroom.
+
+I am especially interested in unusual and industrial optics, including:
+
+- X-ray lenses
+- oscilloscope lenses
+- high-speed camera lenses
+- cinema lenses
+- line-scan lenses
+- projector lenses
+- enlarging lenses
+
+I enjoy working with challenging lenses that often have no autofocus, and sometimes no focus ring or aperture control at all.
+
+### Making & Prototyping
+I enjoy hands-on making and experimentation in my home workshop, including painting, metalworking, soldering, and other fabrication work.
+
+---
+
+## Philosophy
+
+I like building **useful, practical, and original tools**.  
+Even small tools can make real work faster, safer, and easier.
+
+Thanks for visiting my profile.
