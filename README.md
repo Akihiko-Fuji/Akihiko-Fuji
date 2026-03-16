@@ -103,6 +103,12 @@ I have also worked in architecture-related contexts, including **administrative 
 ### Chemistry
 I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
 
+
+### Art
+I used to develop games on the NEC PC-9800 series. I specialize in pixel art and graphics designed for low-resolution displays.
+https://github.com/user-attachments/assets/10e27e90-affb-490c-a2bd-44e74f13f72d
+
+
 ---
 
 ## Beyond Work
