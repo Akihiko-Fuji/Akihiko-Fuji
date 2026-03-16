@@ -79,16 +79,16 @@ Useful for scanner integration and serial-based workflows.
 
 🔗 [key2ser](https://github.com/Akihiko-Fuji/key2ser)
 
-### Clipboard Scouter
-An OCR utility for extracting text from screenshots, error dialogs, online presentations, and other non-selectable on-screen text.
-
-🔗 [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)
-
 ### Serial Port Tool
 A field diagnostic tool for troubleshooting serial communication.  
 It can probe multiple ports and baud rates at once, detect terminators or delimiters, and export logs in JSON format.
 
 🔗 [Serial Port Tool](https://github.com/Akihiko-Fuji/serial_port_tool)
+
+### Clipboard Scouter
+An OCR utility for extracting text from screenshots, error dialogs, online presentations, and other non-selectable on-screen text.
+
+🔗 [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)
 
 ---
 
