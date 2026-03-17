@@ -107,7 +107,8 @@ I studied **applied chemistry** in college, with a focus on **carbon nanotube sy
 ### Art
 I used to develop games on the NEC PC-9800 series. I specialize in pixel art and graphics designed for low-resolution displays.
 
-https://github.com/user-attachments/assets/10e27e90-affb-490c-a2bd-44e74f13f72d
+https://github.com/user-attachments/assets/40b187b4-9eab-465b-bc38-73ee02083d66
+
 
 
 ---
