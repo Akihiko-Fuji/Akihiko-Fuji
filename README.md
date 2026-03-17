@@ -60,6 +60,8 @@ In other words, I work best on problems that are too technical for pure operatio
 ---
 
 ## Selected Projects
+Below are some independent tools and side projects I created outside of my professional work.
+They are available for anyone to use, and I hope they can be of help to others.
 
 ### SSD1309 RSS Reader
 A Japanese-capable RSS news reader for Raspberry Pi with SSD1309 / SSD1306 OLED displays.  
