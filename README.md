@@ -103,13 +103,9 @@ I have also worked in architecture-related contexts, including **administrative 
 ### Chemistry
 I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
 
-
-### Art
-I used to develop games on the NEC PC-9800 series. I specialize in pixel art and graphics designed for low-resolution displays.
-
-https://github.com/user-attachments/assets/40b187b4-9eab-465b-bc38-73ee02083d66
-
-
+## Tiny OLED Animation
+My current focus is 1-bit animation on small 128×64 OLED displays.
+I enjoy exploring how much expression can be created with severe constraints: monochrome, tiny resolution, and minimal hardware.
 
 ---
 
