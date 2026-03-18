@@ -105,7 +105,7 @@ I have also worked in architecture-related contexts, including **administrative 
 ### Chemistry
 I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
 
-## Tiny OLED Animation
+### Tiny OLED Animation
 My current focus is 1-bit animation on small 128×64 OLED displays.
 I enjoy exploring how much expression can be created with severe constraints: monochrome, tiny resolution, and minimal hardware.
 
