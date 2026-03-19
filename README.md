@@ -106,6 +106,8 @@ I have also worked in architecture-related contexts, including **administrative 
 I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
 
 ### Tiny OLED Animation
+![octocat](https://github.com/user-attachments/assets/3249b27a-4ce5-4eda-8446-b7fa36664322)
+
 My current focus is 1-bit animation on small 128×64 OLED displays.
 I enjoy exploring how much expression can be created with severe constraints: monochrome, tiny resolution, and minimal hardware.
 
