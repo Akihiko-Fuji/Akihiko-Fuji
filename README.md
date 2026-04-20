@@ -1,4 +1,4 @@
-# Hi, I'm Akihiko Fujita 👋
+# Hi, I'm Akihiko Fujita 
 
 I am a manufacturing engineer, systems builder, and workflow redesign practitioner from Japan.
 
