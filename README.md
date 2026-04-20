@@ -87,10 +87,6 @@ It can probe multiple ports and baud rates at once, detect terminators or delimi
 
 🔗 [Serial Port Tool](https://github.com/Akihiko-Fuji/serial_port_tool)
 
-### Clipboard Scouter
-An OCR utility for extracting text from screenshots, error dialogs, online presentations, and other non-selectable on-screen text.
-
-🔗 [Clipboard Scouter](https://github.com/Akihiko-Fuji/scouter)
 
 ---
 
