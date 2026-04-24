@@ -69,11 +69,13 @@ Supports feed switching, article switching, button control, and auto-scrolling d
 
 🔗 [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
 
+
 ### ser2key
 A Windows tool that converts serial input into keyboard input.  
 Designed for barcode and QR workflows, including Japanese data such as half-width kana and kanji.
 
 🔗 [ser2key](https://github.com/Akihiko-Fuji/ser2key)
+
 
 ### key2ser
 A Raspberry Pi OS tool that forwards keyboard input to a virtual serial port.  
@@ -81,11 +83,18 @@ Useful for scanner integration and serial-based workflows.
 
 🔗 [key2ser](https://github.com/Akihiko-Fuji/key2ser)
 
+
 ### Serial Port Tool
 A field diagnostic tool for troubleshooting serial communication.  
 It can probe multiple ports and baud rates at once, detect terminators or delimiters, and export logs in JSON format.
 
 🔗 [Serial Port Tool](https://github.com/Akihiko-Fuji/serial_port_tool)
+
+
+### DocDD Seminar
+A seminar-oriented repository that demonstrates Document-Driven Development (DocDD) with practical examples, showing how specification quality shapes AI-assisted coding outcomes.
+
+🔗 [DocDD Seminar](https://github.com/Akihiko-Fuji/DocDD)
 
 
 ---
