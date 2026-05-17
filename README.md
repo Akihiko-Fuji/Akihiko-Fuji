@@ -1,157 +1,177 @@
-# Hi, I'm Akihiko Fujita 
+# こんにちは、藤田 昭彦です
 
-I am a manufacturing engineer, systems builder, and workflow redesign practitioner from Japan.
+製造技術、業務再設計、システム構築に取り組んでいます。
 
-My work focuses on transforming complex manufacturing operations into practical, structured, and sustainable systems.  
-In many cases, the nature of my work is closely aligned with **Business Process Re-engineering (BPR)**:  
-I redesign not only tools, but also workflows, information flow, operational logic, and the systems that support them.
+私が主に扱っているのは、製造現場の中にある複雑な業務を、実際に回る形へ整理し、仕組み化し、継続して使えるシステムとして実装することです。
 
-I am especially interested in building solutions that work in the real world — not just in theory, not just on slides, and not just as software prototypes.
+単にアプリやツールを作るだけではなく、業務フロー、情報の流れ、運用ルール、現場での使われ方まで含めて見直すことが多く、結果として **BPR（Business Process Re-engineering / 業務改革）** に近い仕事になることがよくあります。
 
----
-
-## What I Do
-
-### Manufacturing Systems, Workflow Redesign, and Implementation
-I design and implement systems for real factory environments, including:
-
-- **MES and shop-floor data collection systems**
-- **Human-work tracking systems**, not only machine monitoring
-- **Error-prevention systems** for materials and work procedures
-- **Warehouse and inventory systems** using **QR codes** and **RFID**
-- **Work instruction printing systems** optimized for efficiency and material minimization
-- **Internal tools, operational utilities, and data visualization apps** built with **Python** and **Streamlit**
-
-What makes my role distinctive is that I often work across the entire chain:
-
-**problem discovery → workflow redesign → system architecture → hardware evaluation → coding → deployment → operational support**
-
-Because of that, I see my work not simply as software development, but as **practical engineering for operational transformation**.
-
-### Engineering Background
-My background includes:
-
-- production equipment selection
-- machinery installation
-- line construction
-- process design
-- logistics planning and operations
-- manufacturing process improvement
-
-I also have particular experience with **roll-to-roll equipment**, where process conditions, handling, and operational design must work together as one system.
-
-### Professional Community
-I am a member of the **ENAA Smart Factory Research Group**, where I stay engaged with broader discussions on manufacturing digitalization and smart factory practices.
+理屈としては正しいが現場では使いにくいもの、資料上はきれいだが実装まで届かないもの、試作だけで終わってしまうソフトウェアではなく、実際の現場で使われ、動き続ける仕組みを作ることに関心があります。
 
 ---
 
-## What I Bring
+## やっていること
 
-I am particularly strong in areas where the following need to come together:
+### 製造システム、業務フロー再設計、実装
 
-- understanding how work is actually done on site
-- redesigning workflows and operating rules
-- translating requirements into working systems
-- integrating hardware, software, and operations
-- building tools that are practical enough to survive real use
+実際の工場環境に向けて、次のようなシステムを設計・実装しています。
 
-In other words, I work best on problems that are too technical for pure operations roles, and too operational for pure software roles.
+- **MESおよび製造現場の実績収集システム**
+- 機械だけでなく、**人の作業を捉える実績管理システム**
+- 材料や作業手順の**ポカミス防止システム**
+- **QRコード**や**RFID**を用いた倉庫・在庫管理システム
+- 効率化や材料ロス低減を目的とした作業指示書印刷システム
+- **Python**や**Streamlit**を用いた社内ツール、業務支援アプリ、データ可視化アプリ
+
+私の仕事では、次のような流れを一通り扱うことが多いです。
+
+**課題発見 → 業務フロー再設計 → システム設計 → ハードウェア評価 → コーディング → 導入 → 運用支援**
+
+そのため、自分の仕事は単なるソフトウェア開発というより、製造現場を変えるための実践的なエンジニアリングだと捉えています。
+
+現場の困りごとを拾い、業務の流れを見直し、必要であればハードウェアも評価し、最後は自分でコードを書いて動くところまで持っていく。  
+そのような立ち位置で仕事をしています。
+
+### 技術・業務のバックグラウンド
+
+これまでに、次のような領域に関わってきました。
+
+- 生産設備の選定
+- 機械設備の導入
+- 生産ラインの立ち上げ
+- 工程設計
+- 物流計画・物流実務
+- 製造工程の改善
+
+特に **Roll-to-roll 加工設備** については、加工条件、搬送、取り扱い、運用設計を一体で考える必要があり、経験のある領域です。
+
+### 所属・活動
+
+**ENAA スマートファクトリー研究会** に参加し、製造業のデジタル化やスマートファクトリーに関する議論にも継続的に関わっています。
 
 ---
 
-## Selected Projects
-Below are some independent tools and side projects I created outside of my professional work.
-They are available for anyone to use, and I hope they can be of help to others.
+## 得意なこと
 
-### SSD1309 RSS Reader
-A Japanese-capable RSS news reader for Raspberry Pi with SSD1309 / SSD1306 OLED displays.  
-Supports feed switching, article switching, button control, and auto-scrolling display.
+得意としているのは、現場・業務・技術の境界にあるような領域です。
 
-🔗 [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
+- 現場で実際にどのように作業が行われているかを理解すること
+- 業務フローや運用ルールを整理し直すこと
+- 要求を、実際に動くシステムへ落とし込むこと
+- ハードウェア、ソフトウェア、業務運用をつなげること
+- 現場で使い続けられる実用的なツールを作ること
 
+純粋な業務部門だけでは技術的に扱いにくく、純粋なソフトウェア部門だけでは現場理解が足りない。  
+そのような隙間にある課題を拾い、形にしていくことが、自分の強みだと思っています。
+
+---
+
+## 公開しているプロジェクト
+
+以下は、業務外で作成した独立したツールやサイドプロジェクトです。  
+必要とする方の役に立てばと思い、公開しています。
 
 ### ser2key
-A Windows tool that converts serial input into keyboard input.  
-Designed for barcode and QR workflows, including Japanese data such as half-width kana and kanji.
+
+シリアル入力をキーボード入力に変換するWindows用ツールです。  
+バーコードやQRコードを使った業務での利用を想定しており、半角カナや漢字を含む日本語データにも対応しています。
 
 🔗 [ser2key](https://github.com/Akihiko-Fuji/ser2key)
 
-
-### key2ser
-A Raspberry Pi OS tool that forwards keyboard input to a virtual serial port.  
-Useful for scanner integration and serial-based workflows.
-
-🔗 [key2ser](https://github.com/Akihiko-Fuji/key2ser)
-
-
 ### Serial Port Tool
-A field diagnostic tool for troubleshooting serial communication.  
-It can probe multiple ports and baud rates at once, detect terminators or delimiters, and export logs in JSON format.
+
+シリアル通信のトラブルシューティングを目的とした、現場向けの診断ツールです。  
+複数のポートやボーレートを同時に探索し、終端文字や区切り文字を検出し、ログをJSON形式で出力できます。
 
 🔗 [Serial Port Tool](https://github.com/Akihiko-Fuji/serial_port_tool)
 
-
 ### DocDD Seminar
-A seminar-oriented repository that demonstrates Document-Driven Development (DocDD) with practical examples, showing how specification quality shapes AI-assisted coding outcomes.
+
+Document-Driven Development（DocDD）を実践例とともに示す、セミナー向けのリポジトリです。  
+仕様書の品質が、AI支援コーディングの成果にどのような影響を与えるかを示すことを目的としています。
 
 🔗 [DocDD Seminar](https://github.com/Akihiko-Fuji/DocDD)
 
+### SSD1309 RSS Reader
+
+Raspberry Pi と SSD1309 / SSD1306 OLEDディスプレイを使った、日本語対応のRSSニュースリーダーです。  
+フィード切り替え、記事切り替え、ボタン操作、自動スクロール表示に対応しています。
+
+🔗 [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
+
+### key2ser
+
+Raspberry Pi OS 上で、キーボード入力を仮想シリアルポートへ転送するツールです。  
+スキャナ連携や、シリアル通信を前提とした業務フローの検証に利用できます。
+
+🔗 [key2ser](https://github.com/Akihiko-Fuji/key2ser)
 
 ---
 
-## Additional Experience
+## その他の経験
 
-### Product Design
-One of my product designs received the **Good Design Award** in Japan.
+### プロダクトデザイン
 
-### Building & Construction
-I have also worked in architecture-related contexts, including **administrative coordination**, **legal compliance**, and **project management**.
+設計に関わった製品のひとつが、日本の **グッドデザイン賞** を受賞しました。
 
-### Chemistry
-I studied **applied chemistry** in college, with a focus on **carbon nanotube synthesis**.
+### 建築・建設関連
 
-### Tiny OLED Animation
+建築関連の業務にも関わった経験があり、行政との調整、法令確認、プロジェクト管理などを行ってきました。
+
+### 化学
+
+大学では応用化学を学び、カーボンナノチューブの合成を研究していました。
+
+### 小型OLEDアニメーション
+
 ![octocat](https://github.com/user-attachments/assets/3249b27a-4ce5-4eda-8446-b7fa36664322)
 
-My current focus is 1-bit animation on small 128×64 OLED displays.
-I enjoy exploring how much expression can be created with severe constraints: monochrome, tiny resolution, and minimal hardware.
+現在は、128×64ピクセルの小型OLEDディスプレイ上での1-bitアニメーションにも関心があります。  
+モノクロ、低解像度、小さなハードウェアという強い制約の中で、どこまで表現できるかを試しています。
 
 ---
 
-## Beyond Work
+## 仕事以外の関心
 
-### Photography
-Photography has been one of my passions for nearly 30 years.  
-I have held solo exhibitions and have also developed and printed photographs in my own darkroom.
+### 写真
 
-I am especially interested in unusual and industrial optics, including:
+写真は、30年近く続けている趣味です。  
+過去には個展を開催したこともあり、自家現像や自家プリントも行っていました。
 
-- X-ray lenses
-- Oscilloscope lenses
-- High-speed camera lenses
-- Cinema lenses
-- Line-scan lenses
-- Projector lenses
-- Enlarging lenses
+一般的なカメラ用レンズだけでなく、少し変わった光学系にも関心があります。
 
-I enjoy working with lenses that often have no autofocus, and sometimes not even a focus ring or aperture control.
+- X線用レンズ
+- オシロスコープ用レンズ
+- 高速度カメラ用レンズ
+- シネマレンズ
+- ラインスキャン用レンズ
+- プロジェクターレンズ
+- 引き伸ばしレンズ
+
+オートフォーカスがないだけでなく、ピントリングや絞り機構すらないようなレンズを扱うことも楽しんでいます。
 
 ### Making & Prototyping
-I also enjoy hands-on making and prototyping in my home workshop, including painting, metalworking, soldering, and other fabrication work.
+
+自宅の作業環境で、塗装、金属加工、はんだ付け、試作なども行っています。  
+実際に手を動かし、作って、試して、確認することを大切にしています。
 
 ---
 
-## My Approach
+## 私の考え方
 
-I believe strong engineering starts with understanding the real work.  
-Good systems are not created by technology alone. They are created by connecting:
+良いエンジニアリングは、実際の仕事を理解するところから始まると思っています。
 
-- operations
-- constraints
-- human behavior
-- information flow
-- implementation details
+良いシステムは、技術だけでは成立しません。
 
-That is why I enjoy building systems that are not only technically correct, but operationally meaningful.
+- 業務
+- 制約条件
+- 人の行動
+- 情報の流れ
+- 実装の細部
 
-Thanks for visiting my profile.
+これらがつながって初めて、現場で意味のある仕組みになります。
+
+技術的に正しいだけでなく、業務として意味があり、現場で使い続けられること。  
+そのようなシステムを作ることを大切にしています。
+
+プロフィールをご覧いただき、ありがとうございます。
