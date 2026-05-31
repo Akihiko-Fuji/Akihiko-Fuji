@@ -107,6 +107,13 @@ Raspberry Pi と SSD1309 / SSD1306 OLEDディスプレイを使った、日本�
 
 🔗 [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
   
+### Excel to Markdon
+
+Excelでコピーした表をMarkdownテーブルに変換する小型ツールです。Windowsではクリップボード常駐アプリとして使え、
+Linux/Unix/macOSなどでも標準入力のTSV変換を利用できます。
+
+🔗 [Excel to Markdon](https://github.com/Akihiko-Fuji/ExceltoMarkdown)
+  
 
 ### key2ser
 
