@@ -82,7 +82,7 @@
 シリアル入力をキーボード入力に変換するWindows用ツールです。  
 バーコードやQRコードを使った業務での利用を想定しており、半角カナや漢字を含む日本語データにも対応しています。  
 
-🔗 [ser2key](https://github.com/Akihiko-Fuji/ser2key)
+🔗 [Serial Port to Keyboard](https://github.com/Akihiko-Fuji/ser2key)
   
 
 ### Serial Port Tool
@@ -121,7 +121,7 @@ Linux/Unix/macOSなどでも標準入力のTSV変換を利用できます。
 Raspberry Pi OS 上で、キーボード入力を仮想シリアルポートへ転送するツールです。  
 スキャナ連携や、シリアル通信を前提とした業務フローの検証に利用できます。
 
-🔗 [key2ser](https://github.com/Akihiko-Fuji/key2ser)
+🔗 [[Keyboard to Serial Port](https://github.com/Akihiko-Fuji/key2ser)
   
 
 ---
