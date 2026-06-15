@@ -77,6 +77,14 @@
 以下は、業務外で作成した独立したツールやサイドプロジェクトです。  
 必要とする方の役に立てばと思い、公開しています。
 
+### DocDD Seminar
+
+Document-Driven Development（DocDD）を実践例とともに示す、セミナー向けのリポジトリです。  
+仕様書の品質が、AI支援コーディングの成果にどのような影響を与えるかを示すことを目的としています。  
+
+🔗 [DocDD Seminar](https://github.com/Akihiko-Fuji/DocDD)
+  
+
 ### ser2key
 
 シリアル入力をキーボード入力に変換するWindows用ツールです。  
@@ -93,20 +101,13 @@
 🔗 [Serial Port Tool](https://github.com/Akihiko-Fuji/serial_port_tool)
   
 
-### DocDD Seminar
-
-Document-Driven Development（DocDD）を実践例とともに示す、セミナー向けのリポジトリです。  
-仕様書の品質が、AI支援コーディングの成果にどのような影響を与えるかを示すことを目的としています。  
-
-🔗 [DocDD Seminar](https://github.com/Akihiko-Fuji/DocDD)
-  
-
 ### SSD1309 RSS Reader
 
 Raspberry Pi と SSD1309 / SSD1306 OLEDディスプレイを使った、日本語対応のRSSニュースリーダーです。  
 フィード切り替え、記事切り替え、ボタン操作、自動スクロール表示に対応しています。
 
 🔗 [SSD1309 RSS Reader](https://github.com/Akihiko-Fuji/SSD1306RSS_reader)
+
   
 ### Excel to Markdon
 
@@ -121,7 +122,7 @@ Linux/Unix/macOSなどでも標準入力のTSV変換を利用できます。
 Raspberry Pi OS 上で、キーボード入力を仮想シリアルポートへ転送するツールです。  
 スキャナ連携や、シリアル通信を前提とした業務フローの検証に利用できます。
 
-🔗 [[Keyboard to Serial Port](https://github.com/Akihiko-Fuji/key2ser)
+🔗 [Keyboard to Serial Port](https://github.com/Akihiko-Fuji/key2ser)
   
 
 ---
