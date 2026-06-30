@@ -117,7 +117,7 @@ Raspberry Pi と SSD1309 / SSD1306 OLEDディスプレイを使った、日本�
 Excelでコピーした表をMarkdownテーブルに変換する小型ツールです。Windowsではクリップボード常駐アプリとして使え、
 Linux/Unix/macOSなどでも標準入力のTSV変換を利用できます。
 
-🔗 [Excel to Markdon](https://github.com/Akihiko-Fuji/ExceltoMarkdown)
+🔗 [Excel to Markdown](https://github.com/Akihiko-Fuji/ExceltoMarkdown)
   
 
 ### key2ser
@@ -148,7 +148,7 @@ Raspberry Pi OS 上で、キーボード入力を仮想シリアルポートへ�
 
 ![octocat](https://github.com/user-attachments/assets/3249b27a-4ce5-4eda-8446-b7fa36664322)
 
-以前はPC-9800シリーズ向けのドット絵を書いており、現在は、128×64ピクセルの小型OLEDディスプレイ上での1-bitアニメーションにも関心があります。  
+以前はPC-9800シリーズ向けのドット絵を描いていて、現在は、128×64ピクセルの小型OLEDディスプレイ上での1-bitアニメーションにも関心があります。  
 モノクロ、低解像度、小さなハードウェアという強い制約の中で、どこまで表現できるかを試しています。
 
 ---
