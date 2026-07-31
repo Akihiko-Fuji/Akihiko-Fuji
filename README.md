@@ -82,8 +82,7 @@ IT企業のSEや職業プログラマではありませんし、企業内の情�
 
 Document-Driven Development（DocDD）を実践例とともに示す、90~120分程度のセミナー向けのリポジトリです。  
 仕様書の品質が、AI支援コーディングの成果にどのような影響を与えるかを示すことを目的としています。  
-セミナー開催のご相談やDocDDに関するご質問は、  
-[DocDD Discussions](https://github.com/Akihiko-Fuji/DocDD/discussions)からお気軽にお寄せください。
+セミナー開催のご相談やDocDDに関するご質問は、[DocDD Discussions](https://github.com/Akihiko-Fuji/DocDD/discussions)からお気軽にお寄せください。
 
 🔗 [DocDD Seminar](https://github.com/Akihiko-Fuji/DocDD)
   
